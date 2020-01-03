@@ -22,7 +22,7 @@ class Configuration {
         this.agencies = [
             {
                 name: 'Routes',
-                parser: new AvailtecParser('https://realtime.indygo.net/InfoPoint/')
+                parser: new AvailtecParser('https://realtime.indygo.net/InfoPoint')
             }
         ];
     }
