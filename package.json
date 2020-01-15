@@ -1,6 +1,6 @@
 {
   "name": "montclair-indianapolis",
-  "version": "1.4.0",
+  "version": "1.4.3",
   "private": true,
   "dependencies": {
     "moment": "^2.24.0",
