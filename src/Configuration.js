@@ -18,6 +18,10 @@ class Configuration {
     constructor() {
         // Indianapolis, IN
         this.center = [39.771396, -86.155625];
+        this.tileserver = {
+            url: 'https://indianapolis.gotransitapp.com/tiles/{z}/{x}/{y}.png',
+            subdomains: ''
+        };
 
         this.agencies = [
             {
